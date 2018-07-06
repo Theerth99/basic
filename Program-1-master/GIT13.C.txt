@@ -3,5 +3,7 @@
 void main()
 {
 printf("\n HELLO WORLD");
+printf("\n HELLO WORLD1");
+printf("\n HELLO WORLD2");
 getch();
 }
